@@ -14,6 +14,15 @@ text-align: left;
 font-family: Helvetica, sans-serif;
 }
 
+img{
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    font-size: 25px;
+    text-align: left;
+    color: #000000
+    }
 body {
 background-color: #e86e6ee0;
 }
